@@ -10,5 +10,9 @@ namespace ConsoleApp1
         {
             var c = 1;
         }
+        public void b()
+        {
+            var s = 1;
+        }
     }
 }
