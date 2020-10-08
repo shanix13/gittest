@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         public void a()
         {
-            var c = 1;
+            var c = 100;
         }
         public void k()
         {
