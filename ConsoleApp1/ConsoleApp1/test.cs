@@ -10,5 +10,9 @@ namespace ConsoleApp1
         {
             var c = 1;
         }
+        public void k()
+        {
+            var a = 1;
+        }
     }
 }
